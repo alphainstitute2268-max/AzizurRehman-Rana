@@ -1,0 +1,5 @@
+{
+  "name": "ScriptVisualizer AI",
+  "description": "An intelligent storyboard creator that parses scripts into scenes, generates AI image prompts, and renders high-quality visuals for each scene.",
+  "requestFramePermissions": []
+}
